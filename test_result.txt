@@ -1,0 +1,8 @@
+Python compile: PASS
+Independent smoke test: PASS
+PASS: 保存样本三家企业/15条/证据与页码/状态表
+PASS: 非PDF/损坏/无文字/无关键词/候选/重复文件/Excel导出
+
+Original PDF integration: NOT RUN (three source PDFs absent).
+Live Streamlit Cloud UI and URL checks: NOT RUN (not deployed).
+Dependency build under Python 3.12: NOT RUN (test environment differs).
